@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(201, 201, 201);
+}
+
+a {
+    display: inline-block;
+    transition: .3s;
+    font-weight:bold;
+    text-decoration:none;
+}
+a:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+img {
+    border-radius: 50%;
+}
+
+h2, h1, p {
+    font-family: "Lucida Handwriting", cursive;
+}
