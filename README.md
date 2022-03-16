@@ -1,2 +1,2 @@
 # html-project
-Ini adalah tugas HTML Pertama di Ruang Guru Bootcamp
+Ini adalah tugas HTML Pertama dengan penambahan CSS di Ruang Guru Bootcamp
